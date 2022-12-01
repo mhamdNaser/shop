@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-17 16:38+0200\n"
+"PO-Revision-Date: 2019-10-17 16:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/yog_plugin.php:248 includes/classes/yog_plugin.php:272
+#: includes/classes/yog_plugin.php:296 includes/classes/yog_plugin.php:320
+#: includes/classes/yog_plugin.php:366 includes/classes/yog_plugin.php:390
+#: includes/classes/yog_plugin.php:1217
+#: includes/classes/yog_wp_admin_object_ui.php:698
+msgid "View"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:471
+msgid "Yes-co"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:1215
+#: includes/classes/yog_wp_admin_object_ui.php:689
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:1274
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:677
+msgid "Published"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:693
+msgid "Restore"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:694
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/pages/settings.php:244
+msgid "Gebruikersnaam"
+msgstr ""
+
+#: includes/pages/settings.php:248
+msgid "Wachtwoord"
+msgstr ""
+
+#: includes/pages/settings.php:252
+msgid "Gebruikersnaam / wachtwoord aanpassen"
+msgstr ""
+
+#: includes/widgets/yog_address_search_form_widget.php:97
+#: includes/widgets/yog_contact_form_widget.php:595
+#: includes/widgets/yog_linked_objects_widget.php:144
+#: includes/widgets/yog_linked_relations_widget.php:216
+#: includes/widgets/yog_object_attachments_widget.php:175
+#: includes/widgets/yog_recent_objects_widget.php:376
+msgid "Titel"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:159
+msgid "Voornaam"
+msgstr "Voornaam"
+
+#: includes/widgets/yog_contact_form_widget.php:180
+msgid "Achternaam"
+msgstr "Achternaam"
+
+#: includes/widgets/yog_contact_form_widget.php:201
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/widgets/yog_contact_form_widget.php:222
+msgid "Telefoon"
+msgstr "Telefoon"
+
+#: includes/widgets/yog_contact_form_widget.php:243
+msgid "Straat"
+msgstr "Straat"
+
+#: includes/widgets/yog_contact_form_widget.php:263
+msgid "Huisnummer / postcode"
+msgstr "Huisnummer / postcode"
+
+#: includes/widgets/yog_contact_form_widget.php:270
+msgid "Huisnr"
+msgstr "Huisnr"
+
+#: includes/widgets/yog_contact_form_widget.php:271
+#: includes/widgets/yog_contact_form_widget.php:287
+msgid "Postcode"
+msgstr "Postcode"
+
+#: includes/widgets/yog_contact_form_widget.php:282
+msgid "Huisnummer"
+msgstr "Huisnummer"
+
+#: includes/widgets/yog_contact_form_widget.php:287
+msgid "postcode"
+msgstr "postcode"
+
+#: includes/widgets/yog_contact_form_widget.php:315
+msgid "Plaats"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:340
+#: includes/widgets/yog_contact_form_widget.php:345
+#: includes/widgets/yog_contact_form_widget.php:644
+msgid "Acties"
+msgstr "Acties"
+
+#: includes/widgets/yog_contact_form_widget.php:368
+msgid "Opmerkingen"
+msgstr "Opmerkingen"
+
+#: includes/widgets/yog_contact_form_widget.php:393
+msgid "Schrijf mij in voor uw nieuwbrief"
+msgstr "Schrijf mij in voor uw nieuwbrief"
+
+#: includes/widgets/yog_contact_form_widget.php:409
+#, php-format
+msgid ""
+"AVG: Ik sta toe dat %s contact met mij opneemt a.d.h.v. bovenstaande gegevens"
+msgstr ""
+"AVG: Ik sta toe dat %s contact met mij opneemt a.d.h.v. bovenstaande gegevens"
+
+#: includes/widgets/yog_contact_form_widget.php:424
+#: includes/widgets/yog_contact_form_widget.php:426
+msgid "Versturen"
+msgstr "Versturen"
+
+#: includes/widgets/yog_contact_form_widget.php:601
+msgid "Standaard yes-co key overschrijven"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:603
+msgid "Te achterhalen in Yes-co App Market"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:625
+msgid "Toon labels in velden"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:650
+msgid "Formulier verstuurd boodschap"
+msgstr ""
+
+#: includes/widgets/yog_linked_objects_widget.php:149
+#: includes/widgets/yog_recent_objects_widget.php:447
+msgid "Formaat afbeeldingen"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:223
+msgid "Te tonen kenmerken bedrijf"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:233
+msgid "Te tonen kenmerken persoon"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:242
+msgid "Te gebruiken rollen"
+msgstr ""
+
+#: includes/widgets/yog_map_widget.php:468
+msgid "Shortcode"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:182
+msgid "Toon dossier items"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:188
+msgid "Toon links"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:194
+msgid "Toon documenten"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:200
+msgid "Toon youtube / vimeo videos"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:206
+msgid "Toon overige videos"
+msgstr ""
+
+#: includes/widgets/yog_recent_objects_widget.php:390
+msgid "Ondersteunde objecten"
+msgstr ""
+
+#: includes/widgets/yog_recent_objects_widget.php:399
+msgid "Aantal te tonen objecten"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:258
+#: includes/widgets/yog_search_form_bog_widget.php:385
+#: includes/widgets/yog_search_form_nbpr_widget.php:259
+#: includes/widgets/yog_search_form_nbty_widget.php:273
+#: includes/widgets/yog_search_form_widget.php:347
+msgid "Alleen objecten uit huidige category gebruiken"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:263
+#: includes/widgets/yog_search_form_bog_widget.php:390
+#: includes/widgets/yog_search_form_nbpr_widget.php:264
+#: includes/widgets/yog_search_form_nbty_widget.php:278
+#: includes/widgets/yog_search_form_widget.php:353
+msgid "Gebruik dropdown i.p.v. range selectie"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:270
+#: includes/widgets/yog_search_form_bog_widget.php:399
+#: includes/widgets/yog_search_form_nbpr_widget.php:273
+#: includes/widgets/yog_search_form_nbty_widget.php:287
+#: includes/widgets/yog_search_form_widget.php:362
+msgid "Prijs soort tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:275
+#: includes/widgets/yog_search_form_bog_widget.php:409
+#: includes/widgets/yog_search_form_nbpr_widget.php:278
+#: includes/widgets/yog_search_form_nbty_widget.php:292
+#: includes/widgets/yog_search_form_widget.php:367
+msgid "Prijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:280
+#: includes/widgets/yog_search_form_bog_widget.php:424
+#: includes/widgets/yog_search_form_nbpr_widget.php:283
+#: includes/widgets/yog_search_form_nbty_widget.php:297
+#: includes/widgets/yog_search_form_widget.php:382
+msgid "Plaats tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:285
+#: includes/widgets/yog_search_form_nbpr_widget.php:288
+#: includes/widgets/yog_search_form_nbty_widget.php:312
+msgid "Woon oppervlakte tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:290
+#: includes/widgets/yog_search_form_nbpr_widget.php:293
+#: includes/widgets/yog_search_form_nbty_widget.php:317
+#: includes/widgets/yog_search_form_widget.php:407
+msgid "Inhoud tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:295
+#: includes/widgets/yog_search_form_bog_widget.php:439
+#: includes/widgets/yog_search_form_nbpr_widget.php:298
+#: includes/widgets/yog_search_form_nbty_widget.php:322
+#: includes/widgets/yog_search_form_widget.php:412
+msgid "Sortering tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:404
+msgid "Prijs conditie tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:414
+#: includes/widgets/yog_search_form_widget.php:372
+msgid "Koopprijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:419
+#: includes/widgets/yog_search_form_widget.php:377
+msgid "Huurprijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:429
+msgid "Type tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:434
+msgid "Oppervlakte tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_nbty_widget.php:302
+#: includes/widgets/yog_search_form_widget.php:387
+msgid "Soort woning tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_nbty_widget.php:307
+#: includes/widgets/yog_search_form_widget.php:392
+msgid "Type woning tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_widget.php:397
+msgid "Kamers tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_widget.php:402
+msgid "Woonopp. tonen"
+msgstr ""
+
+#~ msgid "first_name"
+#~ msgstr "Voornaam"

@@ -1,0 +1,26 @@
+.recent-object {
+margin-top:5px;
+padding-top:5px;
+border-top:1px dotted #666666;
+}
+  .recent-object:first-child {
+  margin-top:0px;
+  padding-top:0px;
+  border:none;
+  }
+  .recent-object h2, .recent-object h3 {
+  margin:0px;
+  padding:0px;
+  }
+  .recent-object a {
+  text-decoration:none;
+  }
+  .recent-object .recent-price {
+  color:#000000;
+  }
+  .recent-object .recent-price, .recent-object .recent-open-house {
+  font-weight:bold;
+  }
+    .recent-object .recent-price .recent-price-label, .recent-object .recent-open-house .label {
+    font-weight:normal;
+    }

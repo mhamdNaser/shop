@@ -1,0 +1,925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-08 13:08+0100\n"
+"PO-Revision-Date: 2020-12-08 13:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/yog_plugin.php:250 includes/classes/yog_plugin.php:274
+#: includes/classes/yog_plugin.php:298 includes/classes/yog_plugin.php:322
+#: includes/classes/yog_plugin.php:368 includes/classes/yog_plugin.php:392
+#: includes/classes/yog_plugin.php:1258
+#: includes/classes/yog_wp_admin_object_ui.php:688
+msgid "View"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:473
+msgid "Yes-co"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:1256
+#: includes/classes/yog_wp_admin_object_ui.php:679
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/yog_plugin.php:1315
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:667
+msgid "Published"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:683
+msgid "Restore"
+msgstr ""
+
+#: includes/classes/yog_wp_admin_object_ui.php:684
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/config/language_strings.php:7
+msgid "Appartement"
+msgstr "Apartment"
+
+#: includes/config/language_strings.php:8
+msgid "Berging"
+msgstr "Storeroom"
+
+#: includes/config/language_strings.php:9
+msgid "Bouwgrond"
+msgstr "Building plot"
+
+#: includes/config/language_strings.php:10
+msgid "Garagebox"
+msgstr "Garage box"
+
+#: includes/config/language_strings.php:11
+msgid "Inpandige garage"
+msgstr "Indoor garage"
+
+#: includes/config/language_strings.php:12
+msgid "Ligplaats"
+msgstr "Berth"
+
+#: includes/config/language_strings.php:13
+msgid "Onderstuk"
+msgstr ""
+
+#: includes/config/language_strings.php:14
+msgid "Opslagruimte"
+msgstr "Storage area"
+
+#: includes/config/language_strings.php:15
+msgid "Parkeerkelder"
+msgstr "Parking basement"
+
+#: includes/config/language_strings.php:16
+msgid "Parkeerplaats"
+msgstr "Parking spot"
+
+#: includes/config/language_strings.php:17
+msgid "Stacaravanstandplaats"
+msgstr "Mobile home pitch"
+
+#: includes/config/language_strings.php:18
+msgid "Woonhuis"
+msgstr "Residential building"
+
+#: includes/config/language_strings.php:19
+msgid "Woonwagenstandplaats"
+msgstr "Caravan site"
+
+#: includes/config/language_strings.php:22
+msgid "bungalow"
+msgstr ""
+
+#: includes/config/language_strings.php:23
+msgid "eengezinswoning"
+msgstr "single-family house"
+
+#: includes/config/language_strings.php:24
+msgid "grachtenpand"
+msgstr "canal house"
+
+#: includes/config/language_strings.php:25
+msgid "herenhuis"
+msgstr "mansion"
+
+#: includes/config/language_strings.php:26
+msgid "landgoed"
+msgstr "estate"
+
+#: includes/config/language_strings.php:27
+msgid "landhuis"
+msgstr "country house"
+
+#: includes/config/language_strings.php:28
+msgid "stacaravan"
+msgstr "mobile home"
+
+#: includes/config/language_strings.php:29
+msgid "villa"
+msgstr ""
+
+#: includes/config/language_strings.php:30
+msgid "woonboerderij"
+msgstr "farmhouse"
+
+#: includes/config/language_strings.php:31
+msgid "woonboot"
+msgstr "houseboat"
+
+#: includes/config/language_strings.php:32
+msgid "woonwagen"
+msgstr "caravan"
+
+#: includes/config/language_strings.php:35
+msgid "2-onder-1-kapwoning"
+msgstr "Semi-detached house"
+
+#: includes/config/language_strings.php:36
+msgid "eindwoning"
+msgstr "end house"
+
+#: includes/config/language_strings.php:37
+msgid "geschakelde 2-onder-1-kapwoning"
+msgstr "semi-detached house"
+
+#: includes/config/language_strings.php:38
+msgid "geschakelde woning"
+msgstr "semi-detached house"
+
+#: includes/config/language_strings.php:39
+msgid "halfvrijstaande woning"
+msgstr "semi-detached house"
+
+#: includes/config/language_strings.php:40
+msgid "hoekwoning"
+msgstr "corner house"
+
+#: includes/config/language_strings.php:41
+msgid "tussenwoning"
+msgstr "terraced house"
+
+#: includes/config/language_strings.php:42
+msgid "verspringend"
+msgstr "staggered"
+
+#: includes/config/language_strings.php:43
+msgid "vrijstaande woning"
+msgstr "detached house"
+
+#: includes/config/language_strings.php:46
+msgid "bedrijfs- of dienstwoning"
+msgstr "company or service residence"
+
+#: includes/config/language_strings.php:47
+msgid "dijkwoning"
+msgstr "dyke house"
+
+#: includes/config/language_strings.php:48
+msgid "drive-in woning"
+msgstr "drive-in house"
+
+#: includes/config/language_strings.php:49
+msgid "hofjeswoning"
+msgstr "courtyard house"
+
+#: includes/config/language_strings.php:50
+msgid "kwadrantwoning"
+msgstr "quadrant house"
+
+#: includes/config/language_strings.php:51
+msgid "paalwoning"
+msgstr "stilt house"
+
+#: includes/config/language_strings.php:52
+msgid "patiowoning"
+msgstr "patio house"
+
+#: includes/config/language_strings.php:53
+msgid "semi-bungalow"
+msgstr ""
+
+#: includes/config/language_strings.php:54
+msgid "split-level woning"
+msgstr "split-level house"
+
+#: includes/config/language_strings.php:55
+msgid "waterwoning"
+msgstr "water house"
+
+#: includes/config/language_strings.php:56
+msgid "wind/watermolen"
+msgstr "wind / watermill"
+
+#: includes/config/language_strings.php:59
+msgid "beneden + bovenwoning"
+msgstr "downstairs + upstairs apartment"
+
+#: includes/config/language_strings.php:60
+msgid "benedenwoning"
+msgstr "ground floor apartment"
+
+#: includes/config/language_strings.php:61
+msgid "bovenwoning"
+msgstr "upstairs apartment"
+
+#: includes/config/language_strings.php:62
+msgid "dubbel benedenhuis"
+msgstr "double lower house"
+
+#: includes/config/language_strings.php:63
+msgid "gallerijflat"
+msgstr "gallery flat"
+
+#: includes/config/language_strings.php:64
+msgid "maisonnette"
+msgstr ""
+
+#: includes/config/language_strings.php:65
+msgid "penthouse"
+msgstr ""
+
+#: includes/config/language_strings.php:66
+msgid "portiekflat"
+msgstr "porch flat"
+
+#: includes/config/language_strings.php:67
+msgid "portiekwoning"
+msgstr "porch house"
+
+#: includes/config/language_strings.php:68
+msgid "studentenkamer"
+msgstr "dorm room"
+
+#: includes/config/language_strings.php:69
+msgid "tussenverdieping"
+msgstr "mezzanine floor"
+
+#: includes/config/language_strings.php:72
+msgid "appartement"
+msgstr "apartment"
+
+#: includes/config/language_strings.php:73
+msgid "bel-etage"
+msgstr "main floor"
+
+#: includes/config/language_strings.php:74
+msgid "corridorflat"
+msgstr "corridor flat"
+
+#: includes/config/language_strings.php:75
+msgid "dubbel bovenhuis"
+msgstr "double upper house"
+
+#: includes/config/language_strings.php:76
+msgid "service flat"
+msgstr "service flat"
+
+#: includes/config/language_strings.php:77
+#: includes/config/language_strings.php:123
+msgid "souterrain"
+msgstr "basement"
+
+#: includes/config/language_strings.php:78
+msgid "verzogingsflat"
+msgstr "nursing flat"
+
+#: includes/config/language_strings.php:81
+msgid "beschikbaar"
+msgstr "available"
+
+#: includes/config/language_strings.php:82
+msgid "onder bod"
+msgstr "under offer"
+
+#: includes/config/language_strings.php:83
+msgid "onder optie"
+msgstr "under option"
+
+#: includes/config/language_strings.php:84
+msgid "verhuurd onder voorbehoud"
+msgstr "rented subject to change"
+
+#: includes/config/language_strings.php:85
+msgid "verkocht onder voorbehoud"
+msgstr "sold subject to change"
+
+#: includes/config/language_strings.php:86
+msgid "verhuurd"
+msgstr "rented out"
+
+#: includes/config/language_strings.php:87
+msgid "verkocht"
+msgstr "sold"
+
+#: includes/config/language_strings.php:90
+msgid "in overleg"
+msgstr "in consultation"
+
+#: includes/config/language_strings.php:91
+msgid "per datum"
+msgstr "per date"
+
+#: includes/config/language_strings.php:92
+msgid "direct"
+msgstr ""
+
+#: includes/config/language_strings.php:95
+msgid "aan bosrand"
+msgstr "at the edge of the forest"
+
+#: includes/config/language_strings.php:96
+msgid "aan drukke weg"
+msgstr "on busy road"
+
+#: includes/config/language_strings.php:97
+msgid "aan park"
+msgstr "at a park"
+
+#: includes/config/language_strings.php:98
+msgid "aan rustige weg"
+msgstr "on a quiet road"
+
+#: includes/config/language_strings.php:99
+msgid "aan vaarwater"
+msgstr "at fairway"
+
+#: includes/config/language_strings.php:100
+msgid "aan water"
+msgstr "at water"
+
+#: includes/config/language_strings.php:101
+msgid "bedrijventerrein"
+msgstr "business park"
+
+#: includes/config/language_strings.php:102
+msgid "beschutte ligging"
+msgstr "sheltered location"
+
+#: includes/config/language_strings.php:103
+msgid "buiten bebouwde kom"
+msgstr "outside the built-up area"
+
+#: includes/config/language_strings.php:104
+msgid "in bosrijke omgeving"
+msgstr "in wooded area"
+
+#: includes/config/language_strings.php:105
+msgid "in centrum"
+msgstr "in center"
+
+#: includes/config/language_strings.php:106
+msgid "in woonwijk"
+msgstr "in residential area"
+
+#: includes/config/language_strings.php:107
+msgid "landelijk gelegen"
+msgstr "rural location"
+
+#: includes/config/language_strings.php:108
+msgid "open ligging"
+msgstr "open location"
+
+#: includes/config/language_strings.php:109
+msgid "vrij uitzicht"
+msgstr "unobstructed view"
+
+#: includes/config/language_strings.php:110
+msgid "zeezicht"
+msgstr "sea view"
+
+#: includes/config/language_strings.php:113
+msgid "aangebouwd hout"
+msgstr "lean-to wood"
+
+#: includes/config/language_strings.php:114
+msgid "aangebouwd steen"
+msgstr "lean-to stone"
+
+#: includes/config/language_strings.php:115
+msgid "carport"
+msgstr ""
+
+#: includes/config/language_strings.php:116
+msgid "garage met carport"
+msgstr "garage with carport"
+
+#: includes/config/language_strings.php:117
+msgid "garage mogelijk"
+msgstr "garage possible"
+
+#: includes/config/language_strings.php:118
+msgid "garagebox"
+msgstr "Garage box"
+
+#: includes/config/language_strings.php:119
+msgid "geen garage"
+msgstr "no garage"
+
+#: includes/config/language_strings.php:120
+msgid "inpandig"
+msgstr "indoor"
+
+#: includes/config/language_strings.php:121
+msgid "parkeerkelder"
+msgstr "parking basement"
+
+#: includes/config/language_strings.php:122
+msgid "parkeerplaats"
+msgstr "parking spot"
+
+#: includes/config/language_strings.php:124
+msgid "vrijstaand hout"
+msgstr "freestanding wood"
+
+#: includes/config/language_strings.php:125
+msgid "vrijstaand steen"
+msgstr "freestanding stone"
+
+#: includes/config/language_strings.php:128
+msgid "achtertuin"
+msgstr "backyard"
+
+#: includes/config/language_strings.php:129
+msgid "patio/atrium"
+msgstr ""
+
+#: includes/config/language_strings.php:130
+msgid "plaats"
+msgstr "city"
+
+#: includes/config/language_strings.php:131
+msgid "tuin rondom"
+msgstr "garden around"
+
+#: includes/config/language_strings.php:132
+msgid "voortuin"
+msgstr "front yard"
+
+#: includes/config/language_strings.php:133
+msgid "zijtuin"
+msgstr "side yard"
+
+#: includes/config/language_strings.php:134
+msgid "zonneterras"
+msgstr "sun terrace"
+
+#: includes/config/language_strings.php:137
+msgid "aan te leggen"
+msgstr "to be build"
+
+#: includes/config/language_strings.php:138
+msgid "verwaarloosd"
+msgstr "neglected"
+
+#: includes/config/language_strings.php:139
+msgid "normaal"
+msgstr "normal"
+
+#: includes/config/language_strings.php:140
+msgid "fraai aangelegd"
+msgstr "beautifully landscaped"
+
+#: includes/config/language_strings.php:141
+msgid "verzorgd"
+msgstr "catered"
+
+#: includes/config/language_strings.php:142
+msgid "aangelegd onder architectuur"
+msgstr "laid out under architecture"
+
+#: includes/config/language_strings.php:145
+msgid "noord"
+msgstr "north"
+
+#: includes/config/language_strings.php:146
+msgid "oost"
+msgstr "east"
+
+#: includes/config/language_strings.php:147
+msgid "zuid"
+msgstr "south"
+
+#: includes/config/language_strings.php:148
+msgid "west"
+msgstr "west"
+
+#: includes/config/language_strings.php:151
+msgid "slecht"
+msgstr "bad"
+
+#: includes/config/language_strings.php:152
+msgid "matig"
+msgstr "mediocre"
+
+#: includes/config/language_strings.php:153
+msgid "redelijk"
+msgstr "reasonable"
+
+#: includes/config/language_strings.php:154
+msgid "goed"
+msgstr "good"
+
+#: includes/config/language_strings.php:155
+msgid "uitstekend"
+msgstr "excellent"
+
+#: includes/config/language_strings.php:158
+msgid "k.k."
+msgstr "+ costs"
+
+#: includes/config/language_strings.php:159
+msgid "v.o.n."
+msgstr " "
+
+#: includes/config/language_strings.php:160
+msgid "p.m."
+msgstr "p.m."
+
+#: includes/config/language_strings.php:161
+msgid "p.j."
+msgstr "p.y."
+
+#: includes/config/language_strings.php:164
+msgid "Vraagprijs"
+msgstr "Asking price"
+
+#: includes/config/language_strings.php:165
+msgid "Koopsom"
+msgstr "Purchase price"
+
+#: includes/config/language_strings.php:166
+msgid "Koopprijs"
+msgstr "Purchase price"
+
+#: includes/config/language_strings.php:167
+msgid "Vaste prijs"
+msgstr "Fixed price"
+
+#: includes/config/language_strings.php:168
+msgid "Huurprijs"
+msgstr "Rental price"
+
+#: includes/config/language_strings.php:171
+msgid "op aanvraag"
+msgstr "upon request"
+
+#: includes/config/language_strings.php:172
+msgid "nader overeen te komen"
+msgstr "to be agreed"
+
+#: includes/config/language_strings.php:173
+msgid "veilingobject"
+msgstr "auction object"
+
+#: includes/config/language_strings.php:174
+msgid "prijs op aanvraag"
+msgstr "price on request"
+
+#: includes/config/language_strings.php:177
+msgid "auto"
+msgstr "car"
+
+#: includes/config/language_strings.php:178
+msgid "Bouwjaar"
+msgstr "Construction year"
+
+#: includes/config/language_strings.php:179
+msgid "Capaciteit"
+msgstr "Capacity"
+
+#: includes/config/language_strings.php:180
+msgid "Hoofd tuin"
+msgstr "Main garden"
+
+#: includes/config/language_strings.php:181
+msgid "Kamers"
+msgstr "Rooms"
+
+#: includes/config/language_strings.php:182
+msgid "Kenmerk"
+msgstr "Characteristic"
+
+#: includes/config/language_strings.php:183
+msgid "Ligging"
+msgstr "Location"
+
+#: includes/config/language_strings.php:184
+msgid "Onderhoud binnen"
+msgstr "Maintenance indoor"
+
+#: includes/config/language_strings.php:185
+msgid "Onderhoud buiten"
+msgstr "Maintenance outside"
+
+#: includes/config/language_strings.php:186
+msgid "Oppervlakte"
+msgstr "Surface"
+
+#: includes/config/language_strings.php:187
+msgid "Slaapkamers"
+msgstr "Bedrooms"
+
+#: includes/config/language_strings.php:188
+msgid "Soort"
+msgstr "Kind"
+
+#: includes/config/language_strings.php:189
+msgid "Type woonhuis"
+msgstr "Type of house"
+
+#: includes/config/language_strings.php:190
+msgid "Verdiepingen"
+msgstr "Floors"
+
+#: includes/config/language_strings.php:191
+msgid "Woonopp."
+msgstr "Living surface"
+
+#: includes/pages/synchronisation.php:255
+msgid "Naam"
+msgstr ""
+
+#: includes/pages/synchronisation.php:259
+msgid "Naam aanpassen"
+msgstr ""
+
+#: includes/pages/synchronisation.php:270
+msgid "Gebruikersnaam"
+msgstr ""
+
+#: includes/pages/synchronisation.php:274
+msgid "Wachtwoord"
+msgstr ""
+
+#: includes/pages/synchronisation.php:278
+msgid "Gebruikersnaam / wachtwoord aanpassen"
+msgstr ""
+
+#: includes/widgets/yog_address_search_form_widget.php:106
+#: includes/widgets/yog_contact_form_widget.php:591
+#: includes/widgets/yog_linked_objects_widget.php:144
+#: includes/widgets/yog_linked_relations_widget.php:216
+#: includes/widgets/yog_object_attachments_widget.php:175
+#: includes/widgets/yog_recent_objects_widget.php:376
+#: includes/widgets/yog_search_form_bbpr_widget.php:252
+#: includes/widgets/yog_search_form_bog_widget.php:379
+#: includes/widgets/yog_search_form_nbpr_widget.php:253
+#: includes/widgets/yog_search_form_nbty_widget.php:267
+#: includes/widgets/yog_search_form_widget.php:341
+msgid "Titel"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:159
+msgid "Voornaam"
+msgstr "Firstname"
+
+#: includes/widgets/yog_contact_form_widget.php:180
+msgid "Achternaam"
+msgstr "Lastname"
+
+#: includes/widgets/yog_contact_form_widget.php:201
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/widgets/yog_contact_form_widget.php:222
+msgid "Telefoon"
+msgstr "Phone"
+
+#: includes/widgets/yog_contact_form_widget.php:243
+msgid "Straat"
+msgstr "Street"
+
+#: includes/widgets/yog_contact_form_widget.php:263
+msgid "Huisnummer / postcode"
+msgstr "Housenumber / zipcode"
+
+#: includes/widgets/yog_contact_form_widget.php:270
+msgid "Huisnr"
+msgstr "Housenr"
+
+#: includes/widgets/yog_contact_form_widget.php:271
+#: includes/widgets/yog_contact_form_widget.php:287
+msgid "Postcode"
+msgstr "Zipcode"
+
+#: includes/widgets/yog_contact_form_widget.php:282
+msgid "Huisnummer"
+msgstr "Housenumber"
+
+#: includes/widgets/yog_contact_form_widget.php:287
+msgid "postcode"
+msgstr "zipcode"
+
+#: includes/widgets/yog_contact_form_widget.php:315
+msgid "Plaats"
+msgstr "City"
+
+#: includes/widgets/yog_contact_form_widget.php:340
+#: includes/widgets/yog_contact_form_widget.php:345
+#: includes/widgets/yog_contact_form_widget.php:628
+msgid "Acties"
+msgstr "Actions"
+
+#: includes/widgets/yog_contact_form_widget.php:368
+msgid "Opmerkingen"
+msgstr "Remarks"
+
+#: includes/widgets/yog_contact_form_widget.php:393
+msgid "Schrijf mij in voor uw nieuwbrief"
+msgstr "Subscribe me to your newsletter"
+
+#: includes/widgets/yog_contact_form_widget.php:409
+#, php-format
+msgid "AVG: Ik sta toe dat %s contact met mij opneemt a.d.h.v. bovenstaande gegevens"
+msgstr "AVG: I allow %s to contact me with the provided data"
+
+#: includes/widgets/yog_contact_form_widget.php:424
+#: includes/widgets/yog_contact_form_widget.php:426
+msgid "Versturen"
+msgstr "Send"
+
+#: includes/widgets/yog_contact_form_widget.php:597
+msgid "Standaard yes-co key overschrijven"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:599
+msgid "Te achterhalen in Yes-co App Market"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:609
+msgid "Toon labels in velden"
+msgstr ""
+
+#: includes/widgets/yog_contact_form_widget.php:634
+msgid "Formulier verstuurd boodschap"
+msgstr ""
+
+#: includes/widgets/yog_linked_objects_widget.php:149
+#: includes/widgets/yog_recent_objects_widget.php:447
+msgid "Formaat afbeeldingen"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:223
+msgid "Te tonen kenmerken bedrijf"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:233
+msgid "Te tonen kenmerken persoon"
+msgstr ""
+
+#: includes/widgets/yog_linked_relations_widget.php:242
+msgid "Te gebruiken rollen"
+msgstr ""
+
+#: includes/widgets/yog_map_widget.php:446
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/widgets/yog_object_attachments_widget.php:182
+msgid "Toon dossier items"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:188
+msgid "Toon links"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:194
+msgid "Toon documenten"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:200
+msgid "Toon youtube / vimeo videos"
+msgstr ""
+
+#: includes/widgets/yog_object_attachments_widget.php:206
+msgid "Toon overige videos"
+msgstr ""
+
+#: includes/widgets/yog_recent_objects_widget.php:390
+msgid "Ondersteunde objecten"
+msgstr "Supported objects"
+
+#: includes/widgets/yog_recent_objects_widget.php:399
+msgid "Aantal te tonen objecten"
+msgstr "Number of objects to show"
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:258
+#: includes/widgets/yog_search_form_bog_widget.php:385
+#: includes/widgets/yog_search_form_nbpr_widget.php:259
+#: includes/widgets/yog_search_form_nbty_widget.php:273
+#: includes/widgets/yog_search_form_widget.php:347
+msgid "Alleen objecten uit huidige category gebruiken"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:263
+#: includes/widgets/yog_search_form_bog_widget.php:390
+#: includes/widgets/yog_search_form_nbpr_widget.php:264
+#: includes/widgets/yog_search_form_nbty_widget.php:278
+#: includes/widgets/yog_search_form_widget.php:353
+msgid "Gebruik dropdown i.p.v. range selectie"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:270
+#: includes/widgets/yog_search_form_bog_widget.php:399
+#: includes/widgets/yog_search_form_nbpr_widget.php:273
+#: includes/widgets/yog_search_form_nbty_widget.php:287
+#: includes/widgets/yog_search_form_widget.php:362
+msgid "Prijs soort tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:275
+#: includes/widgets/yog_search_form_bog_widget.php:409
+#: includes/widgets/yog_search_form_nbpr_widget.php:278
+#: includes/widgets/yog_search_form_nbty_widget.php:292
+#: includes/widgets/yog_search_form_widget.php:367
+msgid "Prijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:280
+#: includes/widgets/yog_search_form_bog_widget.php:424
+#: includes/widgets/yog_search_form_nbpr_widget.php:283
+#: includes/widgets/yog_search_form_nbty_widget.php:297
+#: includes/widgets/yog_search_form_widget.php:382
+msgid "Plaats tonen"
+msgstr "Show city"
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:285
+#: includes/widgets/yog_search_form_nbpr_widget.php:288
+#: includes/widgets/yog_search_form_nbty_widget.php:312
+msgid "Woon oppervlakte tonen"
+msgstr "Show living surface"
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:290
+#: includes/widgets/yog_search_form_nbpr_widget.php:293
+#: includes/widgets/yog_search_form_nbty_widget.php:317
+#: includes/widgets/yog_search_form_widget.php:407
+msgid "Inhoud tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bbpr_widget.php:295
+#: includes/widgets/yog_search_form_bog_widget.php:439
+#: includes/widgets/yog_search_form_nbpr_widget.php:298
+#: includes/widgets/yog_search_form_nbty_widget.php:322
+#: includes/widgets/yog_search_form_widget.php:412
+msgid "Sortering tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:404
+msgid "Prijs conditie tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:414
+#: includes/widgets/yog_search_form_widget.php:372
+msgid "Koopprijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:419
+#: includes/widgets/yog_search_form_widget.php:377
+msgid "Huurprijs tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:429
+msgid "Type tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_bog_widget.php:434
+msgid "Oppervlakte tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_nbty_widget.php:302
+#: includes/widgets/yog_search_form_widget.php:387
+msgid "Soort woning tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_nbty_widget.php:307
+#: includes/widgets/yog_search_form_widget.php:392
+msgid "Type woning tonen"
+msgstr ""
+
+#: includes/widgets/yog_search_form_widget.php:397
+msgid "Kamers tonen"
+msgstr "Show rooms"
+
+#: includes/widgets/yog_search_form_widget.php:402
+msgid "Woonopp. tonen"
+msgstr "Show living surface"
+
+#~ msgid "Stad"
+#~ msgstr "Stad"
+
+#~ msgid "first_name"
+#~ msgstr "Firstname"
